@@ -4,11 +4,9 @@
   "version": "0.0.1",
   "author": "victor",
   "filename": "prueba1",
-  "id": 1,
-  "type": "bin",
+  "tags": "bin",
   "cover": "yes", 
   "license": "gpl",
-   
   "source": "http://lolailo",
   "md5": "" 
 },
@@ -16,11 +14,10 @@
     "name": "colorines",
     "version": "0.0.1",
     "author": "JJ",
-    "id": 2,
-    "type": "firmware", 
+    "tags": "firmware", 
     "cover": "no",
     "license": "GPL v3",
-    "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/colorines"
+    "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/colorines",
     "md5": ""
 }
 ]
