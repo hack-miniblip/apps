@@ -1,4 +1,4 @@
 language: node_js
 before_install:
-  - sudo apt-get python-demjson
+  - sudo apt-get install python-demjson
 script: "jsonlint firmware_list.json"
