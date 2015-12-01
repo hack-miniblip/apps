@@ -23,12 +23,23 @@
     ,
     {
         "name": "Particle",
-        "version": "0.2",
+        "version": "0.1",
         "author": "Javacasm",
         "tags":["fisica","particulas","leds"],
         "cover": true,
         "license": "GPL v3",
         "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/balls",
-        "md5": "1a0b791e79f98edaac087c47f84caca2"
+        "md5": "3b9c0e77aefa7a22b19db51e141d6a76"
+    }
+    ,
+    {
+        "name": "Reloj Analogico",
+        "version": "0.1",
+        "author": "Asolisi & JuanVelascoGomez",
+        "tags":["reloj","temporizador","potenciometro","buzzer","leds"],
+        "cover": false,
+        "license": "GPL v3",
+        "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/RelojAnalogico",
+        "md5": "9f447c678846b9c407771fb64a9859d3"
     }
 ]
