@@ -71,6 +71,16 @@
         "license": "GPL v3",
         "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/Lamparita%20Chillout",
         "md5": "62920967fe5412558c1a75ad03df1e23"
+    },
+    {
+        "name": "El Sonrisas",
+        "version": "0.1",
+        "author": "fergunet",
+        "tags":["sonrisa","joker","leds"],
+        "cover": false,
+        "license": "GPL v3",
+        "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/El_Sonrisas",
+        "md5": "b2ab037f28df4e89b557803e613c2f29"
     }
 
 ]
