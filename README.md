@@ -28,3 +28,4 @@ Repo for already compiled apps
 ### Remember to :
 * Point to the source either in the MBED environment or somewhere else
 * Create a README.md Please host PNGs or other images to a different repo. 
+* Name the binary file as `firmware.bin`
