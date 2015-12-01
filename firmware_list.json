@@ -30,5 +30,17 @@
         "license": "GPL v3",
         "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/balls",
         "md5": "1a0b791e79f98edaac087c47f84caca2"
+    }    
+    ,
+    {
+        "name": "Corazon",
+        "version": "0.1",
+        "author": "psicobyte",
+        "tags":["sensor","juego","leds"],
+        "cover": false,
+        "license": "GPL v3",
+        "source": "",
+        "md5": "f4b0d71224e89a61f9868a0e7e1a8658"
     }
+
 ]
