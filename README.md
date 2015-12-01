@@ -1,8 +1,9 @@
 # apps
 
-Repo for already compiled apps
+Repo for already compiled apps for the MiniBLIP board
 
-## Contributing
+## Contributing new apps
+
 ### Upload your projet using the following folder structure
 	./<projectName>
 	./<projectName>/firmware.bin
@@ -14,18 +15,26 @@ Repo for already compiled apps
 ```json
 {
   "name": "anim",
+  "author" : "Your GitHub/MBED id",
   "version": "0.0.1",
-  "author": "victor",
-  "filename": "anim",
-  "id": 1,
-  "type": "",
-  "image": "yes", 
-  "md5": "" 
+  "tags": ["light","sound","game"],
+  "md5": "efefefababab" ,
+  "cover": true,
+  "license": "GPL, Apache or whatever",
+  "source": "http://github.com/this/is/the/source"
 }
 ```
 
+`anim` would be the name of the subdirectory. Remember to add the comma at the end. Please pull from this repo before modifcation to avoid conflicts; if it happens just pull, solve the conflict and do the pull request again.
+
+Compute the md5 signature with
+
+    md5sum firmware.bin
+
+and copy it above
 
 ### Remember to :
+
 * Point to the source either in the MBED environment or somewhere else
-* Create a README.md Please host PNGs or other images to a different repo. 
+* Create the README.md 
 * Name the binary file as `firmware.bin`
