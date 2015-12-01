@@ -1,14 +1,12 @@
 [
+
     {
 	"name": "prueba1",
 	"version": "0.0.1",
 	"author": "victor",
-	"filename": "prueba1",
-	"id": 1,
-	"type": "bin",
-	"cover": "yes", 
+	"tags": "bin",
+	"cover": false, 
 	"license": "gpl",
-	
 	"source": "http://lolailo",
 	"md5": "" 
     },
