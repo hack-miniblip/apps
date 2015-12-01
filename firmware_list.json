@@ -5,19 +5,30 @@
 	"version": "0.0.1",
 	"author": "victor",
 	"tags": "bin",
-	"cover": false, 
+	"cover": false,
 	"license": "gpl",
 	"source": "http://lolailo",
-	"md5": "" 
+	"md5": ""
     },
     {
 	"name": "colorines",
 	"version": "0.0.1",
 	"author": "JJ",
-	"tags": ["example","leds"], 
+	"tags": ["example","leds"],
 	"cover": true,
 	"license": "GPL v3",
 	"source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/colorines",
 	"md5": "4ffe40195182a4933278b76030654d54"
+    }
+    ,
+    {
+        "name": "Particle",
+        "version": "0.1",
+        "author": "Javacasm",
+        "tags":["fisica","particulas","leds"],
+        "cover": true,
+        "license": "GPL v3",
+        "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/balls",
+        "md5": ""
     }
 ]
