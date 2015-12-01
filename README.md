@@ -6,6 +6,8 @@ Repo for already compiled apps
 
 ### Install git lfs
 
+*This is probably not needed... *
+
 First you need to download [git-lfs](https://git-lfs.github.com/)
 
 ### Add extension to keep track of it
@@ -30,4 +32,5 @@ Create a new directory containing
 		license: "Apache, GPL or whatever",
 		source: "Source code link"
 	}
-* The binary file itself.
+* The binary file itself, called `firmware.bin`
+* Modify [`firmware_list.json`](firmware_list.json) and add your app to make it appear in the directory.
