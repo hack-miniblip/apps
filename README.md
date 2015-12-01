@@ -20,5 +20,14 @@ First you need to download [git-lfs](https://git-lfs.github.com/)
 
 Create a new directory containing
 
-* A README.md Please host PNGs or other images to a different repo.
-* The binary file
+* A README.md Please host PNGs or other images to a different repo. Point to the source either in the MBED environment or somewhere else
+* A app.json file with:
+
+    {
+		author: "Author names",
+		name: "Program name",
+		version: "Program version",
+		license: "Apache, GPL or whatever",
+		source: "Source code link"
+	}
+* The binary file itself.
