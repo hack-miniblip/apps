@@ -61,6 +61,16 @@
         "license": "GPL v3",
         "source": "",
         "md5": "f4b0d71224e89a61f9868a0e7e1a8658"
+    },
+    {
+        "name": "Lampara Chillout",
+        "version": "0.1",
+        "author": "iblancasa",
+        "tags":["lampara","chillout","leds"],
+        "cover": false,
+        "license": "GPL v3",
+        "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/Lamparita%20Chillout",
+        "md5": "62920967fe5412558c1a75ad03df1e23"
     }
 
 ]
