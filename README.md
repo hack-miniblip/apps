@@ -2,32 +2,29 @@
 
 Repo for already compiled apps
 
-## Setup for uploading files
-
-### Install git lfs
-
-First you need to download [git-lfs](https://git-lfs.github.com/)
-
-### Add extension to keep track of it
-
-    git lfs track "*.bin"
-
-### Work with the binaries as with any other file
-
-	git add mycompiledfile.bin
-
 ## Contributing
+### Upload your projet using the following folder structure
+	./<projectName>
+	./<projectName>/firmware.bin
+	./<projectName>/cover.png (64x64 / optional)
+	./<projectName>/README.md
 
-Create a new directory containing
+### Update de JSON file using the following structure
 
-* A README.md Please host PNGs or other images to a different repo. Point to the source either in the MBED environment or somewhere else
-* A app.json file with:
+```json
+{
+  "name": "anim",
+  "version": "0.0.1",
+  "author": "victor",
+  "filename": "anim",
+  "id": 1,
+  "type": "",
+  "image": "yes", 
+  "md5": "" 
+}
+```
 
-    {
-		author: "Author names",
-		name: "Program name",
-		version: "Program version",
-		license: "Apache, GPL or whatever",
-		source: "Source code link"
-	}
-* The binary file itself.
+
+### Remember to :
+* Point to the source either in the MBED environment or somewhere else
+* Create a README.md Please host PNGs or other images to a different repo. 
