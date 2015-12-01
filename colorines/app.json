@@ -1,7 +1,7 @@
  {
-     author: "JJ Merelo",
-     name: "colorines",
-     version: "0.0.1",
-     license: "GPL v3",
+     "author": "JJ Merelo",
+     "name": "colorines",
+     "version": "0.0.1",
+     "license": "GPL v3",
      source: "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/colorines"
  }
