@@ -1,0 +1,26 @@
+[
+{
+  "name": "prueba1",
+  "version": "0.0.1",
+  "author": "victor",
+  "filename": "prueba1",
+  "id": 1,
+  "type": "bin",
+  "cover": "yes", 
+  "license": "gpl",
+  "source": "http://lolailo",
+  "md5": "" 
+},
+{
+  "name": "prueba2",
+  "version": "0.0.1",
+  "author": "victor",
+  "filename": "prueba2", 
+  "id": 2,
+  "type": "firmware", 
+  "cover": "no",
+  "license": "apache",
+  "source": "http://lolailo",
+  "md5": ""
+}
+]
