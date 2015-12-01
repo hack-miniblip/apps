@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "victor",
   "tags": "bin",
-  "cover": "yes", 
+  "cover": false, 
   "license": "gpl",
   "source": "http://lolailo",
   "md5": "" 
@@ -14,7 +14,7 @@
     "version": "0.0.1",
     "author": "JJ",
     "tags": "firmware", 
-    "cover": "no",
+    "cover": true,
     "license": "GPL v3",
     "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/colorines",
     "md5": ""
