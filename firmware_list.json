@@ -81,6 +81,16 @@
         "license": "GPL v3",
         "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/El_Sonrisas",
         "md5": "b2ab037f28df4e89b557803e613c2f29"
+    },
+    {
+        "name": "Game of life",
+        "version": "0.1",
+        "author": "Jesus89",
+        "tags":["game","life","leds"],
+        "cover": false,
+        "license": "GPL v3",
+        "source": "https://github.com/hack-miniblip/hack-miniblip.github.io/tree/master/ejemplos/GameOfLife",
+        "md5": "3c391cdab7170db622f59a40d68d0e61"
     }
 
 ]
