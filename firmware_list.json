@@ -1,15 +1,5 @@
 [
     {
-	"name": "prueba1",
-	"version": "0.0.1",
-	"author": "victor",
-	"tags": "bin",
-	"cover": false,
-	"license": "gpl",
-	"source": "http://lolailo",
-	"md5": ""
-    },
-    {
 	"name": "colorines",
 	"version": "0.0.1",
 	"author": "JJ",
